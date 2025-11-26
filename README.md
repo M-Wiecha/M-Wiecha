@@ -1,122 +1,141 @@
-<!-- GITHUB PROFIL – WEBSITE-STIL / Webdesigner Mario Wiecha -->
+<!-- GITHUB PROFIL – WEBSEITE IM CARD-LAYOUT | Webdesigner Mario Wiecha -->
 
-<style>
-/* GitHub arbeitet CSS in HTML-Blöcken ab */
-.card-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
+<!-- HERO SECTION -->
+<div align="center">
 
-.card {
-  flex: 1 1 280px;
-  padding: 20px;
-  border-radius: 16px;
-  background: rgba(255,255,255,0.12);
-  backdrop-filter: blur(10px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  transition: transform .25s ease, box-shadow .25s ease;
-}
+<img src="https://dummyimage.com/1200x250/6a002e/ffffff&text=Webdesigner+Mario+Wiecha" style="border-radius: 12px;" />
 
-.card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 8px 26px rgba(0,0,0,0.18);
-}
+<h1>👋 Willkommen auf meinem GitHub-Profil</h1>
+<p><strong>Webdesigner & Frontend-Developer</strong></p>
+<p>Moderne Webseiten · UX/UI Design · SEO · Performance</p>
 
-.title-gradient {
-  background: linear-gradient(120deg, #7a0026, #b03348, #d0d0d0);
-  -webkit-background-clip: text;
-  color: transparent;
-  font-weight: 900;
-}
-</style>
-
-<h1 align="center" class="title-gradient">
-  Webdesigner • Mario Wiecha
-</h1>
-
-<p align="center">
-  <strong>Moderne Webseiten – UI/UX – Performance – SEO – Animationen</strong>
-</p>
+</div>
 
 ---
 
-## 🌐 Über mich
+# 📌 Über mich
 
-Ich bin **Webdesigner & Frontend-Developer** aus Deutschland, spezialisiert auf:
+Ich bin **Mario Wiecha**, ein kreativer Webdesigner aus Deutschland.  
+Ich entwickle moderne, schnelle und benutzerfreundliche Webseiten – mit klaren Layouts, sauberem Code und Fokus auf Performance.
 
-- moderne Webseiten & UI/UX  
-- responsive Webdesign  
+**Spezialisiert auf:**
+
+- Webdesign & Responsive Layouts  
 - HTML, CSS, JavaScript  
-- PHP & eigene kleine Tools  
-- Performance, SEO, DSGVO  
-
-Ich baue aktuell mein eigenes Toolkit für Webdesigner, mit Komponenten wie:  
-Modals, Lazy-Consent, Anfrageformulare, PHP-Systeme, JSON-Theme-Steuerung.
+- PHP & WordPress  
+- UX/UI & Animationen  
+- Ladezeitenoptimierung  
+- SEO & Strukturierung  
 
 ---
 
-# 🧩 Meine Bereiche (Cards im Website-Stil)
+# 🧰 Technologien
 
-<div class="card-grid">
-
-<div class="card">
-<h3>💼 Portfolio</h3>
-<p>Meine aktuellsten Projekte, Komponenten und Webdesign-Elemente.</p>
-<strong>→ Bald auf GitHub als Open-Source</strong>
-</div>
-
-<div class="card">
-<h3>📄 Kontaktformular System</h3>
-<p>DSGVO, PHPMailer, SMTP, Validierung, Multi-Step, Erfolgsmeldung.</p>
-<strong>→ In Arbeit</strong>
-</div>
-
-<div class="card">
-<h3>🧩 Modal-System</h3>
-<p>JSON-basiert, animiert, responsive – als Web-Bibliothek & WP-Block.</p>
-<strong>→ Release folgt</strong>
-</div>
-
-<div class="card">
-<h3>⚙️ JSON-Designsteuerung</h3>
-<p>Farben, Schriften und Inhalte dynamisch via Dateien anpassen.</p>
-<strong>→ Work in Progress</strong>
-</div>
+<div align="center">
+  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=php" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=wordpress" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="48"></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Skills & Tools
+# 💼 Meine Projekte  
+### Website-Stil • Card Layout • Modern
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,wordpress,github,vscode" />
-</p>
+> ⭐ **Tipp:** Diese Cards sehen im GitHub-Profil *extrem professionell* aus.
 
 ---
 
-# 📊 GitHub Stats (Website-Look)
+## 🔥 Projekte (Cards)
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=M-Wiecha&show_icons=true&theme=transparent&title_color=7a0026&icon_color=7a0026" />
+<!-- CARD 1 -->
+<a href="#" style="text-decoration: none;">
+  <div style="
+    width: 320px;
+    border-radius: 16px;
+    background: #ffffff10;
+    border: 1px solid #ffffff30;
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    margin: 12px;
+    display: inline-block;
+    text-align: left;
+  ">
+    <h3>🌐 Portfolio Website</h3>
+    <p>Meine persönliche Portfolio-Seite mit modernen Effekten, Glas-Design und Responsive Layout.</p>
+  </div>
+</a>
 
-<br>
+<!-- CARD 2 -->
+<a href="#" style="text-decoration: none;">
+  <div style="
+    width: 320px;
+    border-radius: 16px;
+    background: #ffffff10;
+    border: 1px solid #ffffff30;
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    margin: 12px;
+    display: inline-block;
+    text-align: left;
+  ">
+    <h3>📄 Kontaktformular-System</h3>
+    <p>PHP + PHPMailer + DSGVO, modular aufgebaut, mit Admin-Bereich und Bestätigungs-Mail.</p>
+  </div>
+</a>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=M-Wiecha&theme=transparent&ring=7a0026&fire=b03348&currStreakLabel=7a0026" />
+<!-- CARD 3 -->
+<a href="#" style="text-decoration: none;">
+  <div style="
+    width: 320px;
+    border-radius: 16px;
+    background: #ffffff10;
+    border: 1px solid #ffffff30;
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    margin: 12px;
+    display: inline-block;
+    text-align: left;
+  ">
+    <h3>🧩 Modal-System (JSON)</h3>
+    <p>Flexibles Modal-System mit Animationen, Barrierefreiheit, JSON-Content und Theme-Support.</p>
+  </div>
+</a>
 
 </div>
 
 ---
 
-# 🔗 Meine Web-Links
+# 📊 GitHub Stats
 
-- 🌐 **Website:** https://www.webdesigner-mario.de  
-- 📚 **Tutorials:** https://tutorial.webdesigner-mario.de  
-- 💻 **Code-Sammlung:** https://code.webdesigner-mario.de  
-- 📇 **Portfolio:** *Bald als Open-Source Version*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Wiecha&show_icons=true&theme=radical" height="160" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wiecha&theme=radical" height="160" />
+</div>
 
 ---
 
-<h3 align="center">✨ Danke fürs Vorbeischauen – ich freue mich über Austausch, Ideen & neue Projekte!</h3>
+# 🌐 Meine Webseiten
+
+- **Portfolio:** https://www.webdesigner-mario.de  
+- **Tutorial-Seite:** https://tutorial.webdesigner-mario.de  
+- **Code-Sammlungen:** https://code.webdesigner-mario.de  
+
+---
+
+<div align="center">
+  <h3>✨ Danke fürs Vorbeischauen – neue Projekte folgen regelmäßig!</h3>
+</div>
