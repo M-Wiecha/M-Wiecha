@@ -25,7 +25,7 @@ Ich gestalte moderne, klare und schnelle Websites – mit Fokus auf UI/UX und sa
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=M.Wiecha&show_icons=true&hide_border=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=M-Wiecha&show_icons=true&hide_border=true&theme=default)
 
 ---
 
