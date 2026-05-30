@@ -53,13 +53,13 @@ Design trifft sauberen Code – mit Fokus auf User Experience, Speed und Qualit�
 
 ## 🌐 Portfolio
 
-🔗 https://webdesigner-mario.de  
+🔗 https://www.mario-wiecha.de  
 
 ---
 
 ## 📫 Kontakt
 
-✉️ kontakt(at)webdesigner-mario.de  
+✉️ kontakt@mario-wiecha.de  
 
 ---
 
