@@ -37,8 +37,8 @@ Design trifft sauberen Code – mit Fokus auf User Experience, Speed und Qualit�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=M-Wiecha&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=M-Wiecha&layout=compact&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=M-Wiecha&show_icons=true&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-Wiecha&layout=compact&hide_border=true" />
 </p>
 
 ---
