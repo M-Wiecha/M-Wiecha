@@ -53,7 +53,7 @@
 
 <p align="left">
   🔗 <strong>Mein Portfolio:</strong> <a href="https://www.mario-wiecha.de" target="_blank">mario-wiecha.de</a> <br />
-  🔗 <strong>Meine Tutorialseite</strong> <a href="https://tutorials.mario-wiecha.de" target="_blank">Mario's Tutorialseite</a> <br />
+  🔗 <strong>Meine Tutorialseite:</strong> <a href="https://tutorials.mario-wiecha.de" target="_blank">Mario's Tutorialseite</a> <br />
   ✉️ <strong>E-Mail:</strong> <a href="mailto:kontakt@mario-wiecha.de">kontakt@mario-wiecha.de</a>
 </p>
 
